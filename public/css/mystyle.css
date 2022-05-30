@@ -1,0 +1,99 @@
+.blue{
+background-color: #d4eefd;
+padding: 12px;
+margin: 5px 0 5px 0;
+border-radius: 10px;
+
+}
+
+.red{
+background-color: #d35858;
+padding: 12px;
+margin: 5px 0 5px 0;
+border-radius: 10px;
+color: #fd0000;
+}
+
+.red1{
+color: #fd0000;
+}
+
+.black1{
+color: #000;
+}
+
+.lec{
+color: #117864;
+}
+
+.redd{
+background-color: #B40404;
+padding: 12px;
+margin: 5px 0 5px 0;
+border-radius: 10px;
+}
+
+.oscuro{
+background-color: #343a40;
+padding: 12px;
+margin: 5px 0 5px 0;
+
+
+}
+
+.menu-fixed {
+  background-color: #d4eefd;
+  padding: 12px;
+	position:fixed;
+	z-index:100;
+	top:50px;
+	max-width:100%;
+	width:35%;
+  margin: 5px 0 5px 0;
+  border-radius: 10px;
+}
+
+.bod{
+padding-right: 0px;
+min-height: 100%;
+}
+
+.green{
+  background-color:  #76d7c4;
+  padding: 12px;
+  margin: 5px 0 5px 0;
+  border-radius: 10px;
+  color:   #117864 ;
+}
+
+.gris{
+  background-color:  #6d7775;
+  padding: 12px;
+  margin: 5px 0 5px 0;
+  border-radius: 10px;
+  color:   #f3f3f3 ;
+}
+
+.profile-picc img {
+    width: 250px;
+    height: 220px;
+    border-radius: 10%;
+    -webkit-border-radius: 10%;
+    border: 10px solid #f1f2f7;
+    margin-top: 10px;
+}
+
+.fottt{
+  background: #f6f6f6;
+  padding: 15px;
+  height: 70px;
+  width: 75%;
+  position: absolute;
+  bottom: 0;
+  border-right: 1px solid #E5E8EF;
+}
+
+.modal-dialog1 {
+  width: 750px;
+  margin: 30px auto;
+}
